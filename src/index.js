@@ -1,4 +1,5 @@
 ///
-//import {trying} from './graphic'
+import {trying} from './graphic.js'
 trying()
+//alert("Hey")
 
